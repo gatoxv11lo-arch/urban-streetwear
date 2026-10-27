@@ -1,0 +1,1 @@
+Copia aquí las 20 fotos de tus prendas usando los nombres indicados en ../LEEME.txt. Puedes cambiar los nombres si actualizas el campo image correspondiente en script.js.

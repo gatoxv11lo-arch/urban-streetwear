@@ -1,0 +1,1 @@
+Estas son las 13 páginas de catálogo extraídas del ZIP que enviaste. Se muestran en la web como páginas completas para conservar los diseños y los precios tal como aparecen en las imágenes. No renombres estos archivos sin actualizar script.js.
