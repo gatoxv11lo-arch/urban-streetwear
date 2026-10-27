@@ -1,0 +1,29 @@
+URBAN STREETWEAR — WEB CON TUS 14 PÁGINAS DE CATÁLOGO
+
+Este paquete contiene la web y las 14 imágenes JPG que enviaste. Las imágenes ya están vinculadas a las tarjetas del catálogo y optimizadas para cargar más rápido.
+
+ARCHIVOS
+- index.html: página principal.
+- script.js: catálogo y WhatsApp configurado.
+- assets/products/catalogo-01.jpg hasta catalogo-14.jpg: tus imágenes.
+- assets/logo-urban-streetwear.png: logo.
+
+WHATSAPP
+Configurado para Ecuador: 593997420086 (tu número 0997420086 sin el cero inicial).
+
+PROBAR
+1. Extrae todo el ZIP en una carpeta.
+2. Abre index.html en Chrome.
+3. Si quieres que las imágenes y los botones funcionen, conserva juntos index.html, script.js y la carpeta assets; no abras el HTML dentro del ZIP sin extraerlo.
+
+PUBLICAR GRATIS CON GITHUB PAGES
+1. Entra en https://github.com/ y crea una cuenta o inicia sesión.
+2. Crea un repositorio público llamado urban-streetwear.
+3. Sube el contenido de esta carpeta: index.html, script.js, LEEME.txt y la carpeta assets completa. No subas solo el ZIP.
+4. En el repositorio abre Settings > Pages.
+5. En Build and deployment elige Deploy from a branch; selecciona main y /(root), y guarda.
+6. Espera a que GitHub te muestre la URL pública en Settings > Pages.
+
+Si las imágenes no aparecen al abrir index.html, asegúrate de haber extraído el ZIP completo y que la carpeta assets/products esté al mismo nivel de index.html (dentro de assets).
+
+La página es un catálogo; no procesa pagos ni controla inventario automáticamente. Confirma tallas, precios y disponibilidad con cada cliente.
